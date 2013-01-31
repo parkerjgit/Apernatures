@@ -3,7 +3,7 @@ Aper[na]tures - Interactive paneling tool
 https://github.com/parkerjgit/Apernatures.git
 
 Aper[na]tures is a tool developed for use in
-design of hanger in anhui, china for competition 
+design of airship hanger for competition 
 submission completed in collaboration with OPEN 
 Architecture and the Chinese Academy of Building 
 Research (CABR)
