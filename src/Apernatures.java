@@ -47,8 +47,6 @@ Proscene - 3d scene library
 
 Inheritted License: GPL, V3 
 
-Fourth Natures Lab | www.fnl.com
-
 ****************************************************/
 import processing.core.*;
 import controlP5.*;
